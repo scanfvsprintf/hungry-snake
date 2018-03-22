@@ -1,0 +1,9 @@
+﻿  贪吃蛇.cpp
+g:\c\贪吃蛇\贪吃蛇\贪吃蛇.cpp(33): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+g:\c\贪吃蛇\贪吃蛇\贪吃蛇.cpp(37): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 参见“getch”的声明
+g:\c\贪吃蛇\贪吃蛇\贪吃蛇.cpp(43): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+g:\c\贪吃蛇\贪吃蛇\贪吃蛇.cpp(45): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  贪吃蛇.vcxproj -> G:\C\贪吃蛇\Debug\贪吃蛇.exe
